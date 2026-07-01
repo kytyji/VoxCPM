@@ -5,3 +5,13 @@ voxcpm.egg-info
 .DS_Store
 ./pretrained_models/
 app_local.py
+pretrained_models/VoxCPM2/.gitattributes
+pretrained_models/VoxCPM2/.msc
+pretrained_models/VoxCPM2/.mv
+pretrained_models/VoxCPM2/audiovae.pth
+pretrained_models/VoxCPM2/config.json
+pretrained_models/VoxCPM2/model.safetensors
+pretrained_models/VoxCPM2/special_tokens_map.json
+pretrained_models/VoxCPM2/tokenization_voxcpm2.py
+pretrained_models/VoxCPM2/tokenizer.json
+pretrained_models/VoxCPM2/tokenizer_config.json
