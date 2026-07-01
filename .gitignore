@@ -15,3 +15,4 @@ pretrained_models/VoxCPM2/special_tokens_map.json
 pretrained_models/VoxCPM2/tokenization_voxcpm2.py
 pretrained_models/VoxCPM2/tokenizer.json
 pretrained_models/VoxCPM2/tokenizer_config.json
+pipeline_output.wav
